@@ -1,2 +1,2 @@
-# as
+# all
 Created with CodeSandbox
